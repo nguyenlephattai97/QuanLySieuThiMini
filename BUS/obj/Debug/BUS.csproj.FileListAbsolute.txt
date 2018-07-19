@@ -1,0 +1,9 @@
+E:\hoc_ki_5\DA\Do_an\BUS\bin\Debug\BUS.dll
+E:\hoc_ki_5\DA\Do_an\BUS\bin\Debug\BUS.pdb
+E:\hoc_ki_5\DA\Do_an\BUS\bin\Debug\DAO.dll
+E:\hoc_ki_5\DA\Do_an\BUS\bin\Debug\DTO.dll
+E:\hoc_ki_5\DA\Do_an\BUS\bin\Debug\DAO.pdb
+E:\hoc_ki_5\DA\Do_an\BUS\bin\Debug\DTO.pdb
+E:\hoc_ki_5\DA\Do_an\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\hoc_ki_5\DA\Do_an\BUS\obj\Debug\BUS.dll
+E:\hoc_ki_5\DA\Do_an\BUS\obj\Debug\BUS.pdb

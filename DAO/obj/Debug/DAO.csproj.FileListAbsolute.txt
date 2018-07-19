@@ -1,0 +1,7 @@
+E:\hoc_ki_5\DA\Do_an\DAO\bin\Debug\DAO.dll
+E:\hoc_ki_5\DA\Do_an\DAO\bin\Debug\DAO.pdb
+E:\hoc_ki_5\DA\Do_an\DAO\bin\Debug\DTO.dll
+E:\hoc_ki_5\DA\Do_an\DAO\bin\Debug\DTO.pdb
+E:\hoc_ki_5\DA\Do_an\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\hoc_ki_5\DA\Do_an\DAO\obj\Debug\DAO.dll
+E:\hoc_ki_5\DA\Do_an\DAO\obj\Debug\DAO.pdb
